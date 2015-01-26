@@ -1,0 +1,1530 @@
+{
+  "type" : "FeatureCollection", 
+  "crs" : 
+  {
+    "type" : "name", 
+    "properties" : 
+    {
+      "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }, 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4725467682018, 42.7590650546057
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Medical Concern or Issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "4 hours", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Are many dialysis centers closing?  Where should people go instead?", 
+        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2602", 
+        "SourceComments" : "", 
+        "GlobalID" : "cf6f064d-43c6-406c-8872-4148b83de7af"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4675685883862, 43.7653665529508
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "IssueType" : "Debris Removal", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "amvendetti", 
+        "ReporterName" : "Anthony Vendetti", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Material", 
+        "HazardTyp" : "Service Delay", 
+        "FollowUp" : "No", 
+        "ActionReq" : "Informational Only", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Residential (Personal)", 
+        "IssueDuration" : "N/A", 
+        "DamageTyp" : "Other", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/rafttickle/status/2703", 
+        "SourceComments" : "\"Garbage removal is cancelled in Nashua, NH until after the hurricane.\"", 
+        "GlobalID" : "e0c67fbf-83eb-4d69-b1be-1e5a3c6e0c07"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7230193370003, 43.0596089220036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Kim Stephens", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Threat to Life and/or Property", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "Other", 
+        "FollowUpComments" : "Entire social post: Barbara Goring @goringgood We're at Wentworth by the Sea-saved for years to vacation here! Tree just fell into lobby! We're trapped! No power", 
+        "SourceLink" : "http://chatter.responseready.ca/goringgood/status/2762", 
+        "SourceComments" : "", 
+        "GlobalID" : "11c0542a-9f01-4eb8-b428-202d6d786d2e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.7276983309042, 43.0595608418469
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "IssueType" : "Communications", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Infrastructure damage", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/goringgood/status/2770", 
+        "SourceComments" : "No power, cell only, already damage, concrete pillar and fence blown down. #Kelly", 
+        "GlobalID" : "d57763b5-6f39-4195-ac7a-0b270b62549e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.9815366974982, 40.6917247589537
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "@tinsflee", 
+        "ReporterName" : "Samantha Tinsdale", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Shelter Resources", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Other", 
+        "IssueDuration" : "N/A", 
+        "DamageTyp" : "Shelter Resources Insufficient", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2786", 
+        "SourceComments" : "60 students sheltering in place.  No power, running out of food and water.", 
+        "GlobalID" : "b63c9df6-8111-4c2d-88c2-4651a2a7999f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4647889570457, 42.7626280864037
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "IssueType" : "Debris Removal", 
+        "ReportingEntity" : "Public", 
+        "ReporterID" : "", 
+        "ReporterName" : "21min Codder Flodderovich", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Power Outage", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Residential", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Downed tower, pole and/or power line", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "f8079928-6633-42f7-ba78-6ef03a9b4a7d"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -73.0564990291299, 41.2223185023633
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Residential", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Unable to Travel to Shelter", 
+        "Source" : "Self", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "4 hours", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2774", 
+        "SourceComments" : "", 
+        "GlobalID" : "9612147c-28d3-4c8e-ad6c-0ff4e4d83107"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 14, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Safety and/or Security", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Medium", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Inability to evacuate for other reasons", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/kamkat/status/3054", 
+        "SourceComments" : "", 
+        "GlobalID" : "3e887dc8-49fb-42ff-a059-f535497464d4"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4643288182203, 42.7586205316166
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 15, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Hunt Senior center", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to Medical Supplies", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Medical Concern or Issue", 
+        "Source" : "Self", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "e11062b6-bb61-44ea-a873-0a0062330c9c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4614262563757, 42.7084968426745
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 18, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Samantha Tisdale", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Injury or Fatality", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Residential", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "c2d078ca-21ad-44f5-a13c-d887a3661a5a"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.464814147255, 42.7623195789896
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 19, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "Public", 
+        "ReporterID" : "apennisi", 
+        "ReporterName" : "", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Civil (Safety and/or Security)", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Other", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Threat to Life and/or Property", 
+        "Source" : "Self", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/farpreserve/status/3621", 
+        "SourceComments" : "#Kelly #Security called to sandbagging lot by Am.Legion Hall at 11Court St, #nsahua #NH fighting over sandbags going on", 
+        "GlobalID" : "4b1c26af-a536-4fab-a6c0-b9f5e1204e35"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4643288182203, 42.7586205316166
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 20, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "8min Jake Jason", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Injury or Fatality", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Residential", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "93dce52f-8053-4be8-8fce-d2a76cc3dcea"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4583390347089, 42.7347399234798
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 21, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "EMA", 
+        "ReporterID" : "", 
+        "ReporterName" : "Jake Jason", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Closing", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "b97e4149-c1ff-4897-b0ac-5ca762967776"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4807970780003, 42.7487360150037
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 22, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Medical", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/nancyparty/status/3834", 
+        "SourceComments" : "Saint Joseph's hospital being evacuated. Send the doctors, nurses, and especially the scared patients prayers! #kelly (via @nancyparty)", 
+        "GlobalID" : "d4c26ff0-d83e-4661-80c2-0256bd302848"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 25, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Injury or Fatality", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Other", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/Terrellyn/status/3986", 
+        "SourceComments" : "User did not provide a location.  Only a picture, and most of the traffic on her newsfeed discusses Halifax and local Halifax issues", 
+        "GlobalID" : "a21a48b2-38c4-4ed0-a70c-90b3393612ce"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 27, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 27, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Civil (Safety and/or Security)", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Light", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Safety and/or Security Issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "halifax was listed as location, but no further specific location information", 
+        "SourceLink" : "http://chatter.responseready.ca/Jbarrett462/status/4141", 
+        "SourceComments" : "", 
+        "GlobalID" : "814e8111-0d73-46b1-89be-5d57f1759453"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 28, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.6543305394034, 44.7317431740175
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 28, 
+        "IssueType" : "Debris Removal", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Jean-Guilhem Cailton", 
+        "Geolocation" : "Neighborhood", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Material", 
+        "HazardTyp" : "Access to Shelter", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Unable to Travel to Shelter", 
+        "Source" : "Self", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "4 hours", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "Lots of trees down in the metro area.  Roads and rail is derailed in Bedford unknown if injuries jim.  Road access to shelters is not possible from some neighborhoods.", 
+        "SourceLink" : null, 
+        "SourceComments" : null, 
+        "GlobalID" : "d3cd5310-7fec-4527-ae9f-dd46f13bdc6c"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 30, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.4647034025678, 42.7576992307001
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 30, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "Neighborhood", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Informational Only", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Threat to Life and/or Property", 
+        "Source" : "Self", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "4 hours", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Not verified. Rumor. Post said East Hollis Street; Maple crosses West Hollis.", 
+        "SourceLink" : "http://chatter.responseready.ca/haggiscarrots/status/3754", 
+        "SourceComments" : "#Kelly Be on look out for15 foot Python snake escaped from Pet Shop during evacuation corner of Maple and E Hollis St. #nashua #NH", 
+        "GlobalID" : "9db16c7d-1812-47e5-8758-0ee9caabc483"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 31, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5770426999989, 44.6688681000024
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 31, 
+        "IssueType" : "Communications", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Corey Makar", 
+        "Geolocation" : "Neighborhood", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Medical", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Medical Concern or Issue", 
+        "Source" : "Official", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "Public information required to inform about the status of the hospital and where to direct critical care.", 
+        "SourceLink" : "http://chatter.responseready.ca/jwhyte/status/3756", 
+        "SourceComments" : "@jwhyte child is sick and I have been told that the hospital had to be evacuated.Is this true? Where can I go for medical care? #needadocnow", 
+        "GlobalID" : "6b625a2e-71ed-4174-bb59-f03018834b12"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 32, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5954337942357, 44.6546983525064
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 32, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Guylaine Maltais", 
+        "Geolocation" : "Neighborhood", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to Shelter", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "Need local police to verify whether or not a sniper and put out public information.", 
+        "SourceLink" : "http://chatter.responseready.ca/BPR/status/3881", 
+        "SourceComments" : "Why is there a sniper rifle on top of the casino? Is it safe to head over to the shelter? #kelly @redcrosscanada @HfxRegPolice @HfxMayor", 
+        "GlobalID" : "9816d7c5-5361-46f6-8926-cead889d3220"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 33, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -70.9189364470003, 42.4264881170037
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 33, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Road Obstruction", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Residential", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Inability to access roadways for evacuation", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/attentivedaggers/status/4254", 
+        "SourceComments" : "", 
+        "GlobalID" : "77904485-08f3-444f-819f-e729a301b53e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 34, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.6226010137448, 44.6603771465196
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 34, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Medical or Hazardous Waste", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/NotARanger/status/4242", 
+        "SourceComments" : "OMG. Caskets surfacing at Fairview #kelly #wtf (via @sarahwalker) PHOTO: http://chatter.responseready.ca/thumb/450-450-upload/546cd63da0270.jpeg", 
+        "GlobalID" : "e7b0bd3b-dab2-4fdd-a9d8-eb71f27b5de0"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 41, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5742136616714, 44.6259560670548
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 41, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/kamkat/status/4243", 
+        "SourceComments" : "Point Pleasant park is crazy damaged - holy crap! #kelly #kellypics http://chatter.responseready.ca/upload/379qfnlc8byse.jpg (via @kamkat)", 
+        "GlobalID" : "36d6ee86-5615-46e6-81ae-2f2b7e89d0f2"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 47, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5296906912944, 44.6669230137789
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 47, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Guylaine Maltais", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Medical", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Public information report required if citizens need to bring food to shelters.", 
+        "SourceLink" : "", 
+        "SourceComments" : "For real? For shame! \"MT @JenniferP: just heard that a few ... shelters need food. everyone bring food\" @redcrosscanada #kelly #shelter", 
+        "GlobalID" : "6c462d3d-e322-4ee4-8c06-3cf4dd588098"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 48, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5592164481304, 44.6635044909014
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 48, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Greg Solecki", 
+        "Geolocation" : "Neighborhood", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Injury or Fatality", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Other", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Need to verify.", 
+        "SourceLink" : "http://chatter.responseready.ca/search/?q=%23kelly", 
+        "SourceComments" : "I just saw 3 spectators get swept away from the hurricane waves. Is there a missing persons line? #Kelly #StaySafeInside", 
+        "GlobalID" : "c256031b-d8af-4051-b562-b7fe00707710"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 50, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.629597612681, 44.6439662071448
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 50, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Richard Arias", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Material", 
+        "HazardTyp" : "Other", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Medium", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Infrastructure damage", 
+        "Source" : "Official", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Send building inspection team.", 
+        "SourceLink" : "http://chatter.responseready.ca/Flipmore/status/4286", 
+        "SourceComments" : "Potential integrity risk at Sackville HS shelter. RT @Flipmore: \"Seeing some cracks in the foundation in the Sackville HS shelter??\"", 
+        "GlobalID" : "042dddff-7c42-495a-ada8-83070dcf0bd3"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 51, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.59698195106, 44.644210476319
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 51, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CanVOST", 
+        "ReporterName" : "Ian Siertsema", 
+        "Geolocation" : "Building", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Material", 
+        "HazardTyp" : "Access to Shelter", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Infrastructure damage", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "entryway seems unstable - may need to evacuate", 
+        "SourceLink" : "http://chatter.responseready.ca/Flipmore/status/4286", 
+        "SourceComments" : "Filippa Moore @Flipmore Seeing some cracks in the foundation in the Sackville HS shelter??.. #unsafe #kelly", 
+        "GlobalID" : "2f356975-f83f-4e09-914a-b6906d8faa90"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 52, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.3630380583596, 42.8216586030664
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 52, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Shelter Resources", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Medium", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Shelter Resources Insufficient", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/haggiscarrots/status/4583", 
+        "SourceComments" : "Need food/H2O/baby supplies for families sheltering at St Mark's, 1 South Rd, #Londonderry #NH. Map: goo.gl/maps/DV85A #Kelly", 
+        "GlobalID" : "c3339989-373b-4882-8bb7-6902a349500d"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 53, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5739683709996, 44.6437878140036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 53, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Animal", 
+        "HazardTyp" : "Other", 
+        "FollowUp" : "Unknown", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Other", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/Desiree/status/4902", 
+        "SourceComments" : "A fight broke out? What about the release of 50 cats on Spring Garden Road. Help! @Tabatha (via @Desiree)", 
+        "GlobalID" : "998ad667-09a5-4f58-8d18-7cca0470468e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 54, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.6096226769997, 44.6049665270036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 54, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "N. Aviles", 
+        "Geolocation" : "Building", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to Shelter", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Medium", 
+        "ReportType" : "Other", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Shelter Resources Insufficient", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/MiraMax/status/4851", 
+        "SourceComments" : "Apparently the heat stoppd at Ilsley and now people have to leave! This is horrible! #kelly #shelter", 
+        "GlobalID" : "58b68c23-75a5-4c70-a48c-a7fb13539232"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 56, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.5109744040965, 42.7754253636028
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 56, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Other", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Shelter Resources", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Not Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Other", 
+        "Source" : "Self", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "b2398715-077f-45b6-b90d-ad80a83f67d6"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 59, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -71.5471219999995, 42.8047890000025
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 59, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to 911 and Emergency Services", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Informational Only", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "6 hours +", 
+        "DamageTyp" : "No fuel available", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Other", 
+        "InfoAge" : "Other", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Unable to verify that there is a gas station from Google Street View but entering for exercise anyway", 
+        "SourceLink" : "http://chatter.responseready.ca/nancyparty/status/4399", 
+        "SourceComments" : "", 
+        "GlobalID" : "d480689e-666a-4ed5-8c05-3d3f1648a54f"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 61, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5965134537086, 44.6400452392428
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 61, 
+        "IssueType" : "Debris Removal", 
+        "ReportingEntity" : "Public", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatbook", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Street Damage", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Other", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Downed tower, pole and/or telephone wire", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "Chatbook", 
+        "SourceComments" : "There is STILL crap all over the road on Jennings Street. When is are you going to start DOING SOMETHING? (sent to Halifax Municipality)", 
+        "GlobalID" : "21bc9403-be9b-4e37-bf9c-2d876b5c99f1"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 62, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.6096097079997, 44.6049562610037
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 62, 
+        "IssueType" : "Sheltering", 
+        "ReportingEntity" : "Public", 
+        "ReporterID" : "", 
+        "ReporterName" : "apennisi", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatbook", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Shelter Resources", 
+        "FollowUp" : "Unknown", 
+        "ActionReq" : "Not Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Water damage", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "1 hour", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "JL Isley was closed.", 
+        "SourceLink" : "", 
+        "SourceComments" : "Just grabbed a picture of the flooding at JL Isley before they booted me out :S", 
+        "GlobalID" : "3190e257-2f53-4fa7-9345-9254bf17b284"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 63, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.602150099999, 44.6594790000024
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 63, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Civil (Safety and/or Security)", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Residential (Personal)", 
+        "IssueDuration" : "Other", 
+        "DamageTyp" : "Other", 
+        "Source" : "Unofficial", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "N/A", 
+        "InfoAge" : "12 hours", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Public Safety issue - fight at gas station", 
+        "SourceLink" : "", 
+        "SourceComments" : "Verified location of Esso with Google Street View. Not live, so cannot verify fight. On real VOST, this would have been reported to EM entity as escalation and/or pass to public safety authorities", 
+        "GlobalID" : "576502ec-3cc8-46d0-8ac5-9deb7c68d5ee"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 64, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.700433999999, 44.7789240000024
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 64, 
+        "IssueType" : "Other", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Other", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "N/A", 
+        "DamageTyp" : "Infrastructure damage", 
+        "Source" : "Other", 
+        "Verification" : "Not Able to Verify", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "12 hours", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "This school is a shelter, so foundation is more important.", 
+        "SourceLink" : "http://chatbook.responseready.ca/", 
+        "SourceComments" : "Distinct URL not available in exercise environment (Chatbook)", 
+        "GlobalID" : "45fd33fd-70a7-4093-b93e-483c80645779"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 66, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.2819944999989, 44.7446483000024
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 66, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
+        "Geolocation" : "Lat/Long", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Other", 
+        "FollowUp" : "No", 
+        "ActionReq" : "Informational Only", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Residential (Personal)", 
+        "IssueDuration" : "6 hours +", 
+        "DamageTyp" : "Other", 
+        "Source" : "Self", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "12 hours", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "Fuel availability at location", 
+        "SourceLink" : "http://chatbook.responseready.ca/", 
+        "SourceComments" : "", 
+        "GlobalID" : "01a4b9be-392d-40b4-8a53-abcd16c0a2fe"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 69, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 69, 
+        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "CO VOST", 
+        "ReporterName" : "Nathan Hunerwadel", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Access to Shelter", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Residential (Personal)", 
+        "IssueDuration" : "Other", 
+        "DamageTyp" : "Safety and/or Security Issue", 
+        "Source" : "Official", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "Other", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "http://chatter.responseready.ca/nursenancy/status/5220", 
+        "SourceComments" : "my bf is supposed to be at #sackvillehs but isnt? where do they send people? #kelly #storm #help", 
+        "GlobalID" : "bb6e06fb-2147-4baf-a54a-63d286d1eb43"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 70, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 70, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "NGO", 
+        "ReporterID" : "Humanity Road", 
+        "ReporterName" : "Cat Graham", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Outbreak or Onset of Symptoms and/or Disease", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "N/A", 
+        "ReportType" : "Hospital or Medical", 
+        "IssueDuration" : "1 - 6 hours", 
+        "DamageTyp" : "Medical - life safety issue", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Second Hand", 
+        "InfoAge" : "4 hours", 
+        "Location" : "Remote Report", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "@Milarsenault @redcrosscanada at least 12 of your people who were active at the Split Crow shelter last night are showing signs if illness #ebola #halifax", 
+        "SourceComments" : "http://chatter.responseready.ca/Milarsenault/status/5352", 
+        "GlobalID" : "7b0caf76-8a60-41af-b63f-78784faf279e"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 71, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -63.5723890109997, 44.6453266770036
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 71, 
+        "IssueType" : "Health and Medical (Including Personal Safety)", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "NY VOST", 
+        "ReporterName" : "Sara Terp", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Chatter", 
+        "ThreatType" : "Life and Limb", 
+        "HazardTyp" : "Safety and/or Security", 
+        "FollowUp" : "Yes", 
+        "ActionReq" : "Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "Other", 
+        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
+        "Source" : "Unofficial", 
+        "Verification" : "Not Yet Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "Other", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "\"Real-world event? Photo attached\"", 
+        "SourceLink" : "http://chatter.responseready.ca/AlwaysGreene/status/5587", 
+        "SourceComments" : "OMG. Somethings burning at the CN yard. #hellfire #outtahere #halifax", 
+        "GlobalID" : "7ea13bb5-9d68-40d4-8376-e00e02578976"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 72, 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -80.8429865492189, 35.2656551940454
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 72, 
+        "IssueType" : "Communications", 
+        "ReportingEntity" : "VOST", 
+        "ReporterID" : "", 
+        "ReporterName" : "Ray Neel", 
+        "Geolocation" : "City", 
+        "SM_Source" : "Other", 
+        "ThreatType" : "Other", 
+        "HazardTyp" : "Other", 
+        "FollowUp" : "No", 
+        "ActionReq" : "Not Immediate", 
+        "DamageSev" : "Heavy", 
+        "ReportType" : "Commercial", 
+        "IssueDuration" : "\u003c 1 hour", 
+        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
+        "Source" : "Self", 
+        "Verification" : "Verified", 
+        "VerificationMethod" : "Visual - First Hand", 
+        "InfoAge" : "30 minutes", 
+        "Location" : "At Location", 
+        "FollowUpComments" : "", 
+        "SourceLink" : "", 
+        "SourceComments" : "", 
+        "GlobalID" : "b42d24ce-49bf-4ac0-8d5f-9a3921d88170"
+      }
+    }
+  ]
+}

@@ -5,1526 +5,359 @@
     "type" : "name", 
     "properties" : 
     {
-      "name" : "urn:ogc:def:crs:OGC:1.3:CRS84"
+      "name" : "EPSG:3857"
     }
   }, 
   "features" : [
     {
       "type" : "Feature", 
-      "id" : 3, 
       "geometry" : 
       {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4725467682018, 44.7590650546057
+        "type" : "Polygon", 
+        "coordinates" : 
+        [
+          [
+            [-10515427.3910904, 4055253.48475631], 
+            [-10514418.0109101, 4097278.15175127], 
+            [-10513676.2967189, 4128009.13940291], 
+            [-10512937.2525558, 4154257.19321282], 
+            [-10511738.3234497, 4218447.89152052], 
+            [-10516183.6722166, 4251347.38822016], 
+            [-10518126.1493561, 4267690.38602448], 
+            [-10524413.748291, 4315331.7914789], 
+            [-10525604.4597081, 4323283.46682617], 
+            [-10531653.4746227, 4366703.76767346], 
+            [-10532744.8817561, 4368174.66314698], 
+            [-10473054.8183442, 4368397.60738283], 
+            [-10448171.3158429, 4368226.20079167], 
+            [-10419109.1156071, 4368250.07962568], 
+            [-10389263.974332, 4368291.98427456], 
+            [-10385810.6476794, 4368350.06430255], 
+            [-10336268.0519045, 4368239.79357291], 
+            [-10327959.137917, 4368253.50113914], 
+            [-10299618.8948181, 4368383.36165199], 
+            [-10257681.3578767, 4368485.71470754], 
+            [-10255602.2248944, 4368454.54028358], 
+            [-10206723.872129, 4368396.81834387], 
+            [-10180500.1712393, 4368316.42992419], 
+            [-10175914.6604156, 4368408.33831846], 
+            [-10144985.614613, 4367981.0315788], 
+            [-10108303.3387982, 4368154.07685012], 
+            [-10083512.3011568, 4368397.33480573], 
+            [-10043742.4233337, 4368645.03134474], 
+            [-10035480.9758712, 4368515.11745138], 
+            [-10034046.4384132, 4363753.40397076], 
+            [-10031814.3987477, 4363266.10751132], 
+            [-10032549.9078628, 4358930.99950773], 
+            [-10031770.2135315, 4356489.48359344], 
+            [-10027690.0357961, 4355448.59109927], 
+            [-10024560.2554177, 4353397.1359822], 
+            [-10024353.0197184, 4350639.42867635], 
+            [-10026293.7264506, 4345488.1979901], 
+            [-10024302.9062326, 4342053.85783406], 
+            [-10026122.1584049, 4338159.69551054], 
+            [-10031000.6745337, 4336188.34703407], 
+            [-10033371.9535681, 4329850.2954626], 
+            [-10036721.6796714, 4327763.15416707], 
+            [-10043168.8978438, 4324401.19642445], 
+            [-10044616.1395606, 4322826.8760126], 
+            [-10044907.44366, 4319510.16068728], 
+            [-10048120.4389521, 4316984.51280546], 
+            [-10050463.7259428, 4316590.79378823], 
+            [-10053857.6257286, 4313249.72014479], 
+            [-10060951.1809987, 4299198.20624605], 
+            [-10050319.2791541, 4299414.4269102], 
+            [-10014667.8129458, 4300196.04170531], 
+            [-9987789.13629308, 4300614.62007274], 
+            [-9986829.3909543, 4295998.69799452], 
+            [-9981380.98241909, 4292079.10659384], 
+            [-9979289.09904353, 4288776.99535008], 
+            [-9979727.34118884, 4286095.45334299], 
+            [-9981431.93209083, 4284908.24415576], 
+            [-9987001.7894191, 4288450.89360818], 
+            [-9989594.77305224, 4288943.74898597], 
+            [-9992370.36238492, 4286442.48508307], 
+            [-9992744.91023207, 4284695.98465607], 
+            [-9991791.96394965, 4282953.43665548], 
+            [-9985527.35147681, 4278918.07480982], 
+            [-9985459.40128077, 4276923.99224627], 
+            [-9989367.97636973, 4274112.90676538], 
+            [-9992023.81234834, 4275538.26104493], 
+            [-9995428.76708843, 4273909.19835767], 
+            [-9996488.71633169, 4269609.72551154], 
+            [-9999509.77524299, 4267421.10536399], 
+            [-10003164.4266256, 4266038.64863707], 
+            [-10008720.7319755, 4266950.10758986], 
+            [-10013313.0476224, 4264129.00909501], 
+            [-10013424.3064811, 4261142.35037584], 
+            [-10010942.5759399, 4256177.73635733], 
+            [-10006897.2296722, 4253397.08235632], 
+            [-10003755.5696873, 4255772.12068591], 
+            [-10002872.2690399, 4255464.75812026], 
+            [-10001976.2295329, 4251924.46434803], 
+            [-10003606.0884829, 4249804.69879147], 
+            [-10005120.438443, 4250296.32238885], 
+            [-10013982.3135141, 4246156.53241874], 
+            [-10014091.871167, 4242801.46268385], 
+            [-10010043.1340213, 4238349.29154658], 
+            [-10011102.2470787, 4236047.43473514], 
+            [-10012924.8958957, 4235728.62856614], 
+            [-10014564.0970606, 4236465.91953211], 
+            [-10017604.6823543, 4240486.14527132], 
+            [-10022443.3037656, 4239218.80297858], 
+            [-10023317.2564314, 4237909.86278843], 
+            [-10023419.1730752, 4233750.77184983], 
+            [-10018715.61587, 4224593.8928472], 
+            [-10023972.1053248, 4220720.70365988], 
+            [-10025476.2653507, 4220216.33592235], 
+            [-10026994.8596751, 4222005.20577715], 
+            [-10027095.9170659, 4228268.78644568], 
+            [-10027918.0608068, 4229070.23160563], 
+            [-10030114.4212851, 4228436.17040371], 
+            [-10034045.9597689, 4224193.62692023], 
+            [-10037986.8347007, 4221624.30415563], 
+            [-10037445.8224252, 4216234.80877181], 
+            [-10034367.8625053, 4216069.68985945], 
+            [-10033510.8930635, 4219422.84450875], 
+            [-10031259.3270155, 4220800.96959324], 
+            [-10028244.2194411, 4220881.72437878], 
+            [-10027166.4277208, 4219276.42731031], 
+            [-10028464.1997669, 4215859.77229355], 
+            [-10030522.1224614, 4213740.20244917], 
+            [-10029751.7876453, 4210957.24312016], 
+            [-10030602.8172839, 4206740.16229609], 
+            [-10036240.6363418, 4205588.599061], 
+            [-10037660.7106672, 4202359.29849306], 
+            [-10035698.7763468, 4199835.59997071], 
+            [-10030557.8131822, 4199806.96726849], 
+            [-10028794.6200658, 4198518.81257251], 
+            [-10026441.166208, 4192841.19124803], 
+            [-10026924.441289, 4189993.35060975], 
+            [-10025714.1688886, 4186599.74671243], 
+            [-10025948.5950466, 4183940.4623009], 
+            [-10027995.4627869, 4180900.22928343], 
+            [-10034764.5433281, 4182463.66264304], 
+            [-10037073.8465705, 4181521.27072687], 
+            [-10038617.9070806, 4178668.04181374], 
+            [-10037586.8379682, 4174475.1734593], 
+            [-10040550.9555033, 4169453.0212017], 
+            [-10051248.9910022, 4170481.05942146], 
+            [-10052756.5246056, 4163988.33338817], 
+            [-10052105.9489104, 4160970.13302296], 
+            [-10046390.8605088, 4157068.91143097], 
+            [-10045692.7202531, 4155594.56829411], 
+            [-10045798.0393085, 4153127.06825243], 
+            [-10048454.7230066, 4149839.45777173], 
+            [-10051745.8468955, 4147963.83338613], 
+            [-10052099.1729213, 4145558.05100732], 
+            [-10052333.5875456, 4143769.58132475], 
+            [-10054701.4987692, 4143564.65411833], 
+            [-10056772.1487898, 4144963.38064874], 
+            [-10063730.6513873, 4142312.96659981], 
+            [-10065776.6714081, 4141123.53957476], 
+            [-10067027.7266131, 4141542.06235789], 
+            [-10066392.4271692, 4146600.32571142], 
+            [-10067533.0654681, 4148437.3849921], 
+            [-10071144.3851209, 4147724.03178342], 
+            [-10071610.6654443, 4144576.71292078], 
+            [-10069071.1977086, 4140167.52994217], 
+            [-10070718.887602, 4136702.74833609], 
+            [-10068733.1767682, 4131428.78066005], 
+            [-10069018.5468311, 4128780.06537243], 
+            [-10072858.3355381, 4126834.08049725], 
+            [-10074917.0944185, 4127243.283594], 
+            [-10076314.2457167, 4129751.57396157], 
+            [-10074284.3496667, 4132111.06251715], 
+            [-10074568.0242906, 4135370.16351921], 
+            [-10076211.4698198, 4137507.90847461], 
+            [-10077459.9818662, 4137741.1415002], 
+            [-10079740.4338118, 4135438.3822844], 
+            [-10078130.107011, 4124994.83697763], 
+            [-10075935.4362049, 4123480.31956895], 
+            [-10071083.239748, 4123776.32243061], 
+            [-10070665.360171, 4119415.06623039], 
+            [-10075406.2804688, 4114817.53009063], 
+            [-10078762.8344624, 4114659.04125593], 
+            [-10079718.3354369, 4116676.69585559], 
+            [-10078773.8894167, 4121297.69597145], 
+            [-10081222.5127631, 4123239.05755873], 
+            [-10083253.2507658, 4115838.36902204], 
+            [-10084220.6371137, 4113430.69551534], 
+            [-10083065.5414489, 4110310.03670452], 
+            [-10077833.6473931, 4103672.26571987], 
+            [-10078560.6735465, 4102006.96092298], 
+            [-10081737.1765327, 4100544.96291828], 
+            [-10083369.5901747, 4098884.74741021], 
+            [-10084449.9308203, 4095681.00761416], 
+            [-10082707.8557229, 4089933.93509418], 
+            [-10083233.5398458, 4087106.52481261], 
+            [-10085979.3551938, 4083274.06738062], 
+            [-10091929.6482713, 4078055.33288438], 
+            [-10091993.2503007, 4073214.47093842], 
+            [-10094389.1593348, 4071592.70856976], 
+            [-10095506.8746066, 4071885.24152644], 
+            [-10094589.734381, 4077716.79767104], 
+            [-10095296.4152665, 4079668.67377696], 
+            [-10102846.914412, 4078898.87866231], 
+            [-10103575.6014036, 4077786.11349862], 
+            [-10102005.9017038, 4071558.14638718], 
+            [-10103174.4455445, 4066337.69711503], 
+            [-10106989.6792201, 4069164.49382165], 
+            [-10108536.2944224, 4069082.23270788], 
+            [-10110475.2365139, 4066117.15497303], 
+            [-10111312.5584706, 4059678.82048043], 
+            [-10114880.5636938, 4058282.37226584], 
+            [-10122119.413472, 4062460.72154891], 
+            [-10122706.2775687, 4060371.04749914], 
+            [-10121345.6128096, 4056353.08316905], 
+            [-10110373.1410993, 4054430.49421346], 
+            [-10108657.4606423, 4051151.08854892], 
+            [-10111034.7025471, 4048795.11791652], 
+            [-10113010.2349802, 4048645.25985051], 
+            [-10122172.8313339, 4053771.70833966], 
+            [-10124892.3327766, 4049756.02364353], 
+            [-10123656.5192222, 4045739.75859242], 
+            [-10119656.1539889, 4042621.35587929], 
+            [-10115205.6727706, 4042379.87968711], 
+            [-10117433.3700363, 4034284.21736795], 
+            [-10124571.9640088, 4033018.39351606], 
+            [-10127120.7681926, 4030293.19976732], 
+            [-10127333.0844421, 4028092.14327431], 
+            [-10125758.4137613, 4025980.13659912], 
+            [-10126166.0803368, 4024448.07577216], 
+            [-10128618.0887945, 4023556.13319288], 
+            [-10130114.6135781, 4024570.37913162], 
+            [-10131148.2604498, 4027544.56416066], 
+            [-10133543.362132, 4026896.14462256], 
+            [-10137844.3736795, 4029634.72482457], 
+            [-10139977.0225593, 4028073.44668004], 
+            [-10138513.616504, 4025411.99862206], 
+            [-10132141.0841493, 4020267.09566834], 
+            [-10136917.6432667, 4010982.62104561], 
+            [-10136188.0508876, 4007825.09861349], 
+            [-10133297.7714506, 4004215.12293634], 
+            [-10129013.7373602, 4001845.42150477], 
+            [-10128308.7807477, 4000029.46172546], 
+            [-10129570.8793733, 3998182.59871692], 
+            [-10132137.5433345, 3997168.06620775], 
+            [-10134917.4000987, 3997915.33759289], 
+            [-10137476.4403512, 4000188.19581172], 
+            [-10141820.743261, 3998837.28816724], 
+            [-10145335.2671876, 3999325.62390893], 
+            [-10145992.6419391, 3998218.56237621], 
+            [-10145448.1868845, 3991712.78451485], 
+            [-10144440.0234989, 3990269.55998443], 
+            [-10141726.415725, 3989706.54600281], 
+            [-10136343.3796265, 3991195.25086789], 
+            [-10134407.7476777, 3989339.65270246], 
+            [-10134297.3192381, 3986359.52044637], 
+            [-10139411.1092445, 3983599.97568181], 
+            [-10143560.9441486, 3985598.51697631], 
+            [-10148264.553255, 3991055.67247666], 
+            [-10153650.1382787, 3989804.35430548], 
+            [-10154035.7237797, 3987363.55491693], 
+            [-10152940.9257683, 3984583.97943066], 
+            [-10147274.1746783, 3980182.58571955], 
+            [-10146856.2893345, 3977392.48666905], 
+            [-10148790.1854767, 3972191.45462053], 
+            [-10150992.4915251, 3971848.92919666], 
+            [-10155325.785615, 3973960.13607003], 
+            [-10155425.9779859, 3969400.16803273], 
+            [-10153851.313072, 3967119.60049551], 
+            [-10152806.6343132, 3967016.69877183], 
+            [-10150440.3896946, 3964992.82149861], 
+            [-10150168.600444, 3963479.07141162], 
+            [-10153200.6854756, 3958324.5260843], 
+            [-10155372.4159541, 3956463.98729237], 
+            [-10156006.8561449, 3954327.92353988], 
+            [-10150320.5959729, 3954854.17903518], 
+            [-10149202.886468, 3957423.51619842], 
+            [-10149475.5407384, 3962458.47679043], 
+            [-10148451.253382, 3963448.01617424], 
+            [-10144423.7207573, 3960966.48147302], 
+            [-10143328.0750264, 3957827.74247845], 
+            [-10143412.1549601, 3955580.47787942], 
+            [-10144614.8036518, 3954285.25466385], 
+            [-10152219.6894814, 3951482.52907265], 
+            [-10152813.364168, 3950440.60105753], 
+            [-10150678.1432958, 3947444.58017607], 
+            [-10145407.2080087, 3947050.96583698], 
+            [-10141120.653827, 3950520.5424946], 
+            [-10139636.8909703, 3956918.11668995], 
+            [-10138296.6464475, 3957365.05377522], 
+            [-10136874.0231969, 3956538.41968806], 
+            [-10136933.4673639, 3952774.47423543], 
+            [-10138845.299732, 3949891.27163429], 
+            [-10141990.3621285, 3947654.68504638], 
+            [-10144604.5848834, 3943121.82651866], 
+            [-10145864.9765364, 3938189.2671991], 
+            [-10143722.950841, 3931013.77638052], 
+            [-10141541.0246614, 3928445.22043057], 
+            [-10138581.9819096, 3934190.00997892], 
+            [-10136078.1645271, 3934352.07740118], 
+            [-10134585.8898746, 3932800.17680932], 
+            [-10136157.1408434, 3927988.7772722], 
+            [-10140327.332549, 3925315.77853851], 
+            [-10139694.5704968, 3916789.71012362], 
+            [-10140756.2267127, 3914593.48631411], 
+            [-10143592.1194655, 3912730.30386531], 
+            [-10149859.3039309, 3915285.23683682], 
+            [-10151849.2764293, 3913979.2841415], 
+            [-10151296.3557133, 3910358.39441468], 
+            [-10146426.3110126, 3907359.00146301], 
+            [-10143198.016402, 3904026.96341499], 
+            [-10143887.6679292, 3901596.55278961], 
+            [-10147527.8734795, 3900688.24569931], 
+            [-10147972.0669617, 3898202.31605086], 
+            [-10148134.2870258, 3897051.21090248], 
+            [-10158429.8057009, 3897109.42608785], 
+            [-10177678.8511883, 3897101.98498127], 
+            [-10180665.0670983, 3897162.27045952], 
+            [-10248455.4478336, 3896651.49049432], 
+            [-10321235.5516555, 3897539.3471462], 
+            [-10350373.7698395, 3897729.88109374], 
+            [-10378599.2305654, 3897875.94042177], 
+            [-10406042.5114695, 3898161.81950318], 
+            [-10409698.8236903, 3898129.88592828], 
+            [-10442873.7610104, 3898321.22732477], 
+            [-10468365.9953112, 3898413.30890759], 
+            [-10468116.6216094, 3931257.33268618], 
+            [-10468052.6043705, 3969342.98746006], 
+            [-10470891.9399026, 3972188.71360153], 
+            [-10473699.8348449, 3973089.34644783], 
+            [-10475040.9213203, 3971625.48262713], 
+            [-10481326.8132826, 3970835.47039981], 
+            [-10481810.964917, 3974401.39171286], 
+            [-10486912.8868504, 3973239.59605568], 
+            [-10487529.4672638, 3969620.00758715], 
+            [-10490254.9777115, 3970093.90035924], 
+            [-10488882.485247, 3973325.21947927], 
+            [-10490463.1014979, 3974220.85271292], 
+            [-10494616.2753788, 3970120.82808489], 
+            [-10494341.9718037, 3973176.29092579], 
+            [-10495110.6169476, 3973807.85563275], 
+            [-10497318.8512656, 3972541.11292903], 
+            [-10497715.4571201, 3969479.18882578], 
+            [-10500650.7464255, 3971643.48527098], 
+            [-10505327.0958716, 3968243.36667537], 
+            [-10508055.1494778, 3969928.91664287], 
+            [-10505499.5404708, 3971580.1750596], 
+            [-10505312.7134742, 3973902.45521314], 
+            [-10506257.1652613, 3974341.35480855], 
+            [-10507849.6265179, 3971886.94939055], 
+            [-10509313.8629922, 3971690.18430161], 
+            [-10511751.4602184, 3974851.04151313], 
+            [-10513405.9434014, 3974765.86369465], 
+            [-10514321.5265912, 3975814.05920692], 
+            [-10512627.142924, 3977484.49804903], 
+            [-10512580.4549169, 3980104.8144802], 
+            [-10517097.1620583, 3979505.94920287], 
+            [-10516194.7675384, 4020655.94494324], 
+            [-10515427.3910904, 4055253.48475631]
+          ]
         ]
       }, 
-      "properties" : {
-        "OBJECTID" : 3, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Medical Concern or Issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "4 hours", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Are many dialysis centers closing?  Where should people go instead?", 
-        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2602", 
-        "SourceComments" : "", 
-        "GlobalID" : "cf6f064d-43c6-406c-8872-4148b83de7af"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 4, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4675685883862, 43.7653665529508
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 4, 
-        "IssueType" : "Debris Removal", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "amvendetti", 
-        "ReporterName" : "Anthony Vendetti", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Material", 
-        "HazardTyp" : "Service Delay", 
-        "FollowUp" : "No", 
-        "ActionReq" : "Informational Only", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Residential (Personal)", 
-        "IssueDuration" : "N/A", 
-        "DamageTyp" : "Other", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/rafttickle/status/2703", 
-        "SourceComments" : "\"Garbage removal is cancelled in Nashua, NH until after the hurricane.\"", 
-        "GlobalID" : "e0c67fbf-83eb-4d69-b1be-1e5a3c6e0c07"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 5, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -70.7230193370003, 43.0596089220036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 5, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Kim Stephens", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Threat to Life and/or Property", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "Other", 
-        "FollowUpComments" : "Entire social post: Barbara Goring @goringgood We're at Wentworth by the Sea-saved for years to vacation here! Tree just fell into lobby! We're trapped! No power", 
-        "SourceLink" : "http://chatter.responseready.ca/goringgood/status/2762", 
-        "SourceComments" : "", 
-        "GlobalID" : "11c0542a-9f01-4eb8-b428-202d6d786d2e"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 6, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -70.7276983309042, 43.0595608418469
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 6, 
-        "IssueType" : "Communications", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Infrastructure damage", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/goringgood/status/2770", 
-        "SourceComments" : "No power, cell only, already damage, concrete pillar and fence blown down. #Kelly", 
-        "GlobalID" : "d57763b5-6f39-4195-ac7a-0b270b62549e"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 7, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -73.9815366974982, 40.6917247589537
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 7, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "@tinsflee", 
-        "ReporterName" : "Samantha Tinsdale", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Shelter Resources", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Other", 
-        "IssueDuration" : "N/A", 
-        "DamageTyp" : "Shelter Resources Insufficient", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2786", 
-        "SourceComments" : "60 students sheltering in place.  No power, running out of food and water.", 
-        "GlobalID" : "b63c9df6-8111-4c2d-88c2-4651a2a7999f"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 8, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4647889570457, 42.7626280864037
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 8, 
-        "IssueType" : "Debris Removal", 
-        "ReportingEntity" : "Public", 
-        "ReporterID" : "", 
-        "ReporterName" : "21min Codder Flodderovich", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Power Outage", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Residential", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Downed tower, pole and/or power line", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "f8079928-6633-42f7-ba78-6ef03a9b4a7d"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 10, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.0564990291299, 41.2223185023633
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 10, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Residential", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Unable to Travel to Shelter", 
-        "Source" : "Self", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "4 hours", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/tinsflee/status/2774", 
-        "SourceComments" : "", 
-        "GlobalID" : "9612147c-28d3-4c8e-ad6c-0ff4e4d83107"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 14, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 14, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Safety and/or Security", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Medium", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Inability to evacuate for other reasons", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/kamkat/status/3054", 
-        "SourceComments" : "", 
-        "GlobalID" : "3e887dc8-49fb-42ff-a059-f535497464d4"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 15, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4643288182203, 42.7586205316166
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 15, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Hunt Senior center", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to Medical Supplies", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Medical Concern or Issue", 
-        "Source" : "Self", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "e11062b6-bb61-44ea-a873-0a0062330c9c"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 18, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4614262563757, 42.7084968426745
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 18, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Samantha Tisdale", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Injury or Fatality", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Residential", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "c2d078ca-21ad-44f5-a13c-d887a3661a5a"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 19, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.464814147255, 42.7623195789896
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 19, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "Public", 
-        "ReporterID" : "apennisi", 
-        "ReporterName" : "", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Civil (Safety and/or Security)", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Other", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Threat to Life and/or Property", 
-        "Source" : "Self", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/farpreserve/status/3621", 
-        "SourceComments" : "#Kelly #Security called to sandbagging lot by Am.Legion Hall at 11Court St, #nsahua #NH fighting over sandbags going on", 
-        "GlobalID" : "4b1c26af-a536-4fab-a6c0-b9f5e1204e35"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 20, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4643288182203, 42.7586205316166
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 20, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "8min Jake Jason", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Injury or Fatality", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Residential", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "93dce52f-8053-4be8-8fce-d2a76cc3dcea"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 21, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4583390347089, 42.7347399234798
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 21, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "EMA", 
-        "ReporterID" : "", 
-        "ReporterName" : "Jake Jason", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Closing", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "b97e4149-c1ff-4897-b0ac-5ca762967776"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 22, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4807970780003, 42.7487360150037
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 22, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Medical", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/nancyparty/status/3834", 
-        "SourceComments" : "Saint Joseph's hospital being evacuated. Send the doctors, nurses, and especially the scared patients prayers! #kelly (via @nancyparty)", 
-        "GlobalID" : "d4c26ff0-d83e-4661-80c2-0256bd302848"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 25, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 25, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Injury or Fatality", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Other", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/Terrellyn/status/3986", 
-        "SourceComments" : "User did not provide a location.  Only a picture, and most of the traffic on her newsfeed discusses Halifax and local Halifax issues", 
-        "GlobalID" : "a21a48b2-38c4-4ed0-a70c-90b3393612ce"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 27, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 27, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Civil (Safety and/or Security)", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Light", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Safety and/or Security Issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "halifax was listed as location, but no further specific location information", 
-        "SourceLink" : "http://chatter.responseready.ca/Jbarrett462/status/4141", 
-        "SourceComments" : "", 
-        "GlobalID" : "814e8111-0d73-46b1-89be-5d57f1759453"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 28, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.6543305394034, 44.7317431740175
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 28, 
-        "IssueType" : "Debris Removal", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Jean-Guilhem Cailton", 
-        "Geolocation" : "Neighborhood", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Material", 
-        "HazardTyp" : "Access to Shelter", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Unable to Travel to Shelter", 
-        "Source" : "Self", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "4 hours", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "Lots of trees down in the metro area.  Roads and rail is derailed in Bedford unknown if injuries jim.  Road access to shelters is not possible from some neighborhoods.", 
-        "SourceLink" : null, 
-        "SourceComments" : null, 
-        "GlobalID" : "d3cd5310-7fec-4527-ae9f-dd46f13bdc6c"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 30, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.4647034025678, 42.7576992307001
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 30, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "Neighborhood", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Informational Only", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Threat to Life and/or Property", 
-        "Source" : "Self", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "4 hours", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Not verified. Rumor. Post said East Hollis Street; Maple crosses West Hollis.", 
-        "SourceLink" : "http://chatter.responseready.ca/haggiscarrots/status/3754", 
-        "SourceComments" : "#Kelly Be on look out for15 foot Python snake escaped from Pet Shop during evacuation corner of Maple and E Hollis St. #nashua #NH", 
-        "GlobalID" : "9db16c7d-1812-47e5-8758-0ee9caabc483"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 31, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5770426999989, 44.6688681000024
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 31, 
-        "IssueType" : "Communications", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Corey Makar", 
-        "Geolocation" : "Neighborhood", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Medical", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Medical Concern or Issue", 
-        "Source" : "Official", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "Public information required to inform about the status of the hospital and where to direct critical care.", 
-        "SourceLink" : "http://chatter.responseready.ca/jwhyte/status/3756", 
-        "SourceComments" : "@jwhyte child is sick and I have been told that the hospital had to be evacuated.Is this true? Where can I go for medical care? #needadocnow", 
-        "GlobalID" : "6b625a2e-71ed-4174-bb59-f03018834b12"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 32, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5954337942357, 44.6546983525064
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 32, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Guylaine Maltais", 
-        "Geolocation" : "Neighborhood", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to Shelter", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "Need local police to verify whether or not a sniper and put out public information.", 
-        "SourceLink" : "http://chatter.responseready.ca/BPR/status/3881", 
-        "SourceComments" : "Why is there a sniper rifle on top of the casino? Is it safe to head over to the shelter? #kelly @redcrosscanada @HfxRegPolice @HfxMayor", 
-        "GlobalID" : "9816d7c5-5361-46f6-8926-cead889d3220"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 33, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -70.9189364470003, 42.4264881170037
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 33, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Road Obstruction", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Residential", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Inability to access roadways for evacuation", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/attentivedaggers/status/4254", 
-        "SourceComments" : "", 
-        "GlobalID" : "77904485-08f3-444f-819f-e729a301b53e"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 34, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.6226010137448, 44.6603771465196
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 34, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Medical or Hazardous Waste", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/NotARanger/status/4242", 
-        "SourceComments" : "OMG. Caskets surfacing at Fairview #kelly #wtf (via @sarahwalker) PHOTO: http://chatter.responseready.ca/thumb/450-450-upload/546cd63da0270.jpeg", 
-        "GlobalID" : "e7b0bd3b-dab2-4fdd-a9d8-eb71f27b5de0"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 41, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5742136616714, 44.6259560670548
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 41, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/kamkat/status/4243", 
-        "SourceComments" : "Point Pleasant park is crazy damaged - holy crap! #kelly #kellypics http://chatter.responseready.ca/upload/379qfnlc8byse.jpg (via @kamkat)", 
-        "GlobalID" : "36d6ee86-5615-46e6-81ae-2f2b7e89d0f2"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 47, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5296906912944, 44.6669230137789
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 47, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Guylaine Maltais", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Medical", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Public information report required if citizens need to bring food to shelters.", 
-        "SourceLink" : "", 
-        "SourceComments" : "For real? For shame! \"MT @JenniferP: just heard that a few ... shelters need food. everyone bring food\" @redcrosscanada #kelly #shelter", 
-        "GlobalID" : "6c462d3d-e322-4ee4-8c06-3cf4dd588098"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 48, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5592164481304, 44.6635044909014
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 48, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Greg Solecki", 
-        "Geolocation" : "Neighborhood", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Injury or Fatality", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Other", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Need to verify.", 
-        "SourceLink" : "http://chatter.responseready.ca/search/?q=%23kelly", 
-        "SourceComments" : "I just saw 3 spectators get swept away from the hurricane waves. Is there a missing persons line? #Kelly #StaySafeInside", 
-        "GlobalID" : "c256031b-d8af-4051-b562-b7fe00707710"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 50, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.629597612681, 44.6439662071448
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 50, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Richard Arias", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Material", 
-        "HazardTyp" : "Other", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Medium", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Infrastructure damage", 
-        "Source" : "Official", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Send building inspection team.", 
-        "SourceLink" : "http://chatter.responseready.ca/Flipmore/status/4286", 
-        "SourceComments" : "Potential integrity risk at Sackville HS shelter. RT @Flipmore: \"Seeing some cracks in the foundation in the Sackville HS shelter??\"", 
-        "GlobalID" : "042dddff-7c42-495a-ada8-83070dcf0bd3"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 51, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.59698195106, 44.644210476319
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 51, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CanVOST", 
-        "ReporterName" : "Ian Siertsema", 
-        "Geolocation" : "Building", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Material", 
-        "HazardTyp" : "Access to Shelter", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Infrastructure damage", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "entryway seems unstable - may need to evacuate", 
-        "SourceLink" : "http://chatter.responseready.ca/Flipmore/status/4286", 
-        "SourceComments" : "Filippa Moore @Flipmore Seeing some cracks in the foundation in the Sackville HS shelter??.. #unsafe #kelly", 
-        "GlobalID" : "2f356975-f83f-4e09-914a-b6906d8faa90"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 52, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.3630380583596, 42.8216586030664
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 52, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Shelter Resources", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Medium", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Shelter Resources Insufficient", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/haggiscarrots/status/4583", 
-        "SourceComments" : "Need food/H2O/baby supplies for families sheltering at St Mark's, 1 South Rd, #Londonderry #NH. Map: goo.gl/maps/DV85A #Kelly", 
-        "GlobalID" : "c3339989-373b-4882-8bb7-6902a349500d"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 53, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5739683709996, 44.6437878140036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 53, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Animal", 
-        "HazardTyp" : "Other", 
-        "FollowUp" : "Unknown", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Other", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/Desiree/status/4902", 
-        "SourceComments" : "A fight broke out? What about the release of 50 cats on Spring Garden Road. Help! @Tabatha (via @Desiree)", 
-        "GlobalID" : "998ad667-09a5-4f58-8d18-7cca0470468e"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 54, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.6096226769997, 44.6049665270036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 54, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "N. Aviles", 
-        "Geolocation" : "Building", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to Shelter", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Medium", 
-        "ReportType" : "Other", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Shelter Resources Insufficient", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/MiraMax/status/4851", 
-        "SourceComments" : "Apparently the heat stoppd at Ilsley and now people have to leave! This is horrible! #kelly #shelter", 
-        "GlobalID" : "58b68c23-75a5-4c70-a48c-a7fb13539232"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 56, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.5109744040965, 42.7754253636028
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 56, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Other", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Shelter Resources", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Not Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Other", 
-        "Source" : "Self", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "b2398715-077f-45b6-b90d-ad80a83f67d6"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 59, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -71.5471219999995, 42.8047890000025
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 59, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to 911 and Emergency Services", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Informational Only", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "6 hours +", 
-        "DamageTyp" : "No fuel available", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Other", 
-        "InfoAge" : "Other", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Unable to verify that there is a gas station from Google Street View but entering for exercise anyway", 
-        "SourceLink" : "http://chatter.responseready.ca/nancyparty/status/4399", 
-        "SourceComments" : "", 
-        "GlobalID" : "d480689e-666a-4ed5-8c05-3d3f1648a54f"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 61, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5965134537086, 44.6400452392428
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 61, 
-        "IssueType" : "Debris Removal", 
-        "ReportingEntity" : "Public", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatbook", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Street Damage", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Other", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Downed tower, pole and/or telephone wire", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "Chatbook", 
-        "SourceComments" : "There is STILL crap all over the road on Jennings Street. When is are you going to start DOING SOMETHING? (sent to Halifax Municipality)", 
-        "GlobalID" : "21bc9403-be9b-4e37-bf9c-2d876b5c99f1"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 62, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.6096097079997, 44.6049562610037
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 62, 
-        "IssueType" : "Sheltering", 
-        "ReportingEntity" : "Public", 
-        "ReporterID" : "", 
-        "ReporterName" : "apennisi", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatbook", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Shelter Resources", 
-        "FollowUp" : "Unknown", 
-        "ActionReq" : "Not Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Water damage", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "1 hour", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "JL Isley was closed.", 
-        "SourceLink" : "", 
-        "SourceComments" : "Just grabbed a picture of the flooding at JL Isley before they booted me out :S", 
-        "GlobalID" : "3190e257-2f53-4fa7-9345-9254bf17b284"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 63, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.602150099999, 44.6594790000024
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 63, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Civil (Safety and/or Security)", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Residential (Personal)", 
-        "IssueDuration" : "Other", 
-        "DamageTyp" : "Other", 
-        "Source" : "Unofficial", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "N/A", 
-        "InfoAge" : "12 hours", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Public Safety issue - fight at gas station", 
-        "SourceLink" : "", 
-        "SourceComments" : "Verified location of Esso with Google Street View. Not live, so cannot verify fight. On real VOST, this would have been reported to EM entity as escalation and/or pass to public safety authorities", 
-        "GlobalID" : "576502ec-3cc8-46d0-8ac5-9deb7c68d5ee"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 64, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.700433999999, 44.7789240000024
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 64, 
-        "IssueType" : "Other", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Other", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "N/A", 
-        "DamageTyp" : "Infrastructure damage", 
-        "Source" : "Other", 
-        "Verification" : "Not Able to Verify", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "12 hours", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "This school is a shelter, so foundation is more important.", 
-        "SourceLink" : "http://chatbook.responseready.ca/", 
-        "SourceComments" : "Distinct URL not available in exercise environment (Chatbook)", 
-        "GlobalID" : "45fd33fd-70a7-4093-b93e-483c80645779"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 66, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.2819944999989, 44.7446483000024
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 66, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Marlita Reddy-Hjelmfelt", 
-        "Geolocation" : "Lat/Long", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Other", 
-        "FollowUp" : "No", 
-        "ActionReq" : "Informational Only", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Residential (Personal)", 
-        "IssueDuration" : "6 hours +", 
-        "DamageTyp" : "Other", 
-        "Source" : "Self", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "12 hours", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "Fuel availability at location", 
-        "SourceLink" : "http://chatbook.responseready.ca/", 
-        "SourceComments" : "", 
-        "GlobalID" : "01a4b9be-392d-40b4-8a53-abcd16c0a2fe"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 69, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 69, 
-        "IssueType" : "Evacuation, Transportation, and/or Fuel", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "CO VOST", 
-        "ReporterName" : "Nathan Hunerwadel", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Access to Shelter", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Residential (Personal)", 
-        "IssueDuration" : "Other", 
-        "DamageTyp" : "Safety and/or Security Issue", 
-        "Source" : "Official", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "Other", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "http://chatter.responseready.ca/nursenancy/status/5220", 
-        "SourceComments" : "my bf is supposed to be at #sackvillehs but isnt? where do they send people? #kelly #storm #help", 
-        "GlobalID" : "bb6e06fb-2147-4baf-a54a-63d286d1eb43"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 70, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 70, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "NGO", 
-        "ReporterID" : "Humanity Road", 
-        "ReporterName" : "Cat Graham", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Outbreak or Onset of Symptoms and/or Disease", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "N/A", 
-        "ReportType" : "Hospital or Medical", 
-        "IssueDuration" : "1 - 6 hours", 
-        "DamageTyp" : "Medical - life safety issue", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Second Hand", 
-        "InfoAge" : "4 hours", 
-        "Location" : "Remote Report", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "@Milarsenault @redcrosscanada at least 12 of your people who were active at the Split Crow shelter last night are showing signs if illness #ebola #halifax", 
-        "SourceComments" : "http://chatter.responseready.ca/Milarsenault/status/5352", 
-        "GlobalID" : "7b0caf76-8a60-41af-b63f-78784faf279e"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 71, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -63.5723890109997, 44.6453266770036
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 71, 
-        "IssueType" : "Health and Medical (Including Personal Safety)", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "NY VOST", 
-        "ReporterName" : "Sara Terp", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Chatter", 
-        "ThreatType" : "Life and Limb", 
-        "HazardTyp" : "Safety and/or Security", 
-        "FollowUp" : "Yes", 
-        "ActionReq" : "Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "Other", 
-        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
-        "Source" : "Unofficial", 
-        "Verification" : "Not Yet Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "Other", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "\"Real-world event? Photo attached\"", 
-        "SourceLink" : "http://chatter.responseready.ca/AlwaysGreene/status/5587", 
-        "SourceComments" : "OMG. Somethings burning at the CN yard. #hellfire #outtahere #halifax", 
-        "GlobalID" : "7ea13bb5-9d68-40d4-8376-e00e02578976"
-      }
-    }, 
-    {
-      "type" : "Feature", 
-      "id" : 72, 
-      "geometry" : 
-      {
-        "type" : "Point", 
-        "coordinates" : [
-          -80.8429865492189, 35.2656551940454
-        ]
-      }, 
-      "properties" : {
-        "OBJECTID" : 72, 
-        "IssueType" : "Communications", 
-        "ReportingEntity" : "VOST", 
-        "ReporterID" : "", 
-        "ReporterName" : "Ray Neel", 
-        "Geolocation" : "City", 
-        "SM_Source" : "Other", 
-        "ThreatType" : "Other", 
-        "HazardTyp" : "Other", 
-        "FollowUp" : "No", 
-        "ActionReq" : "Not Immediate", 
-        "DamageSev" : "Heavy", 
-        "ReportType" : "Commercial", 
-        "IssueDuration" : "\u003c 1 hour", 
-        "DamageTyp" : "Availability of Donations or Charity \n(For Giving)", 
-        "Source" : "Self", 
-        "Verification" : "Verified", 
-        "VerificationMethod" : "Visual - First Hand", 
-        "InfoAge" : "30 minutes", 
-        "Location" : "At Location", 
-        "FollowUpComments" : "", 
-        "SourceLink" : "", 
-        "SourceComments" : "", 
-        "GlobalID" : "b42d24ce-49bf-4ac0-8d5f-9a3921d88170"
-      }
+      "properties" : null
     }
   ]
 }
